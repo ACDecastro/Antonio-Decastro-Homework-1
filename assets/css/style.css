@@ -86,22 +86,26 @@ p {
     background-color: #2589bd;
 }
 
+/* Affects the Lead Generation portion on the sidebar*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
+/* Text under the Lead Generation portion on the sidebar */
 .benefit-lead h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
+/* The image under the Lead Generation portion on the sidebar */
 .benefit-lead img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* Text under the Lead Generation portion on the sidebar */
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;

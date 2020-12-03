@@ -11,7 +11,7 @@ Code refactor
 3. Click on any of the links in the top right corner to view the section of the page showing information on that topic.
 
 ```md
-![Webpage Links](..assets/images/Screenshot.png)
+![Webpage Links](./assets/images/Screenshot.png)
 ```
 
 
